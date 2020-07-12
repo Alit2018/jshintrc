@@ -64,6 +64,7 @@
     font-weight: 500px;
     color: skyblue;
     text-align: center;
+    z-index: 1;
 }
 body {
     background: green;
